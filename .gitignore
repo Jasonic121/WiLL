@@ -1,0 +1,6 @@
+*.csv
+.env
+config.json
+.DS_Store
+*.xlsx
+*.txt
