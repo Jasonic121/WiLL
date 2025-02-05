@@ -1,0 +1,12 @@
+openai
+pandas
+tiktoken
+scipy
+python-dotenv
+datasets
+langchain
+ragatouille
+tqdm
+scikit-learn
+aiohttp
+asyncio 
