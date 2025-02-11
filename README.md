@@ -88,10 +88,12 @@ Feel free to extend and customize the project as needed. Key areas for potential
 If you use this system in your research, please cite:
 ```
 @inproceedings{WiLL2025,
-  title = {Can We Make FCC Experts Out of LLMs?},
-  author = {Atul Bansal, Veronica Muriga, Jason Li, Lucy Duan, and Swarun Kumar},
-  booktitle = {Proceedings of the 2025 ACM HotMobile Conference},
-  year = {2025}
+  author    = {Atul Bansal and Veronica Muriga and Jason Li and Lucy Duan and Swarun Kumar},
+  title     = {Can We Make {FCC} Experts Out of {LLMs}?},
+  booktitle = {Proceedings of the 26th Annual International Workshop on Mobile Computing Systems and Applications (HotMobile 2025)},
+  year      = {2025},
+  publisher = {ACM},
+  address   = {New York, NY, USA},
 }
 ```
 
